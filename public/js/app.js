@@ -1,5 +1,3 @@
-console.log("Client side js running");
-
 const weatherForm = document.querySelector(".weatherForm");
 const search = document.querySelector(".weatherForm__search");
 const errorMessage = document.querySelector("#message-1");
